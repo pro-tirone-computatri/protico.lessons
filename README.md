@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/pro-tirone-computatri/protico.lessons/"><img src="logo.png" height="80"></a><br />
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/kreincke/proScientia.ltx?style=flat"></a>
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/kreincke/proScientia.ltx?style=flat"></a>  
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/pro-tirone-computatri/protico.lessons?style=flat"></a>
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/pro-tirone-computatri/protico.lessons?style=flat"></a>  
   <a href="https://github.com/pro-tirone-computatri/protico.lessons/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
 </p>
 
@@ -72,6 +72,8 @@ Die intendierte Nutzung der Unterrichtseinheiten ist, dass die Lehrerin
 * zu jeder Folie davon den Text aus dem Tonspurdokument erzählt
 * an jeder Stelle mit Übung die Aktion an die Schülerinnen übergibt
 * am Ende einer Unterrichtseinheit das Tonspurdokument zur Nachbereitung und Wiederauffrischung an die Schülerinnen aushändigt.
+
+Genauer erläutere ich einzelne Unterrichtseinheiten und -aspekte in meinem Blog zum Thema [Berufsschule](https://karsten-reincke.de/tag/berufsschule/) bzw. [Fachinformatik](https://karsten-reincke.de/tag/fachinformatik/)
 
 ### (5) Bestand
 
