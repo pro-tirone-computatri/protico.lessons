@@ -75,7 +75,10 @@ Die intendierte Nutzung der Unterrichtseinheiten ist, dass die Lehrerin
 
 ### (5) Bestand
 
-* 
+* LF09:
+  * `sbj-00.curriculum-*`: Stoffherleitung
+* LFCX:
+  * `cx.datafiles-*`: Dateiaustauschformate
 
 Anmerkungen:
 
