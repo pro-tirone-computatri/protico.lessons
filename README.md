@@ -10,10 +10,10 @@
 <!-- LTeX:Language=de-DE -->
 
 <p align="center">
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/"><img src="logo.png" height="80"></a><br />
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/pro-tirone-computatri/protico.lessons?style=flat"></a>
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/pro-tirone-computatri/protico.lessons?style=flat"></a>  
-  <a href="https://github.com/pro-tirone-computatri/protico.lessons/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
+  <a href="https://github.com/pro-tirone-computatri/protico.ltx/"><img src="logo.png" height="80"></a><br />
+  <a href="https://github.com/pro-tirone-computatri/protico.ltx/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/pro-tirone-computatri/protico.ltx?style=flat"></a>
+  <a href="https://github.com/pro-tirone-computatri/protico.ltx/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/pro-tirone-computatri/protico.ltx?style=flat"></a>  
+  <a href="https://github.com/pro-tirone-computatri/protico.ltx/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
 </p>
 
 
