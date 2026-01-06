@@ -27,7 +27,7 @@
 
 ### (1) Ziel
 
-Das ausführliche Manifest finden Sie unter [https://github.com/pro-tirone-computatri](https://github.com/pro-tirone-computatri). Es besagt, dass wir
+Das [proTironeComputatri-Manifest](https://github.com/pro-tirone-computatri) besagt im Kern, dass wir
 
 * Lehrerinnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten möchten. 
 * den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten wollen.
