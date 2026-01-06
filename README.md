@@ -10,14 +10,14 @@
 <!-- LTeX:Language=de-DE -->
 
 <p align="center">
-  <a href="https://github.com/pro-tirone-computatri/protico.ltx/"><img src="logo.png" height="80"></a><br />
-  <a href="https://github.com/pro-tirone-computatri/protico.ltx/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/kreincke/proScientia.ltx?style=flat"></a>
-  <a href="https://github.com/pro-tirone-computatri/protico.ltx/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/kreincke/proScientia.ltx?style=flat"></a>  
-  <a href="https://github.com/pro-tirone-computatri/protico.ltx/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/"><img src="logo.png" height="80"></a><br />
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/kreincke/proScientia.ltx?style=flat"></a>
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/kreincke/proScientia.ltx?style=flat"></a>  
+  <a href="https://github.com/pro-tirone-computatri/protico.lessons/blob/master/LICENSING.md" title="License"><img src="https://img.shields.io/badge/License-CC_BY_4.0-blue.svg?style=flat"></a>
 </p>
 
 
-## Freie Unterrichtsmaterialien für die Ausbildung zur Fachinformatikerin.
+## Freie Lehrmaterialien für die Ausbildung zur Fachinformatikerin.
 
 <!-- LTeX:Language=en-US -->
 
@@ -27,7 +27,7 @@
 
 ### (1) Ziel
 
-Das ausführliche Manifest finden Sie unter [https://github.com/pro-tirone-computatri](https://github.com/pro-tirone-computatri). Es besagt im Kern, dass wir
+Das ausführliche Manifest finden Sie unter [https://github.com/pro-tirone-computatri](https://github.com/pro-tirone-computatri). Es besagt, dass wir
 
 * Lehrerinnen und Schülerinnen fertig aufbereitete Unterrichts- und Lerneinheiten für die Ausbildung zur Fachinformatikerin anbieten möchten. 
 * den Stoff, den die Abschlussprüfungen I und II erwarten, umfänglich und hochwertig aufbereiten wollen.
@@ -55,7 +55,7 @@ Das Download-Repository [protico.lessons](https://github.com/proi-tirone-computa
 
 * bietet für jedes Lernfeld des Rahmenlehrplans einen eigenen Ordner [ z.B. `lf.03`, `lf.09`, oder `lf.11c` ] mit Unterrichtseinheiten.
 * gliedert den Stoff eines Lernfeldes als Folge von Themen(dateien) [`sbj-00.xyz` bis `sbj-xy.zyx`].
-* sortiert die Themendateien nach intendierte Reihenfolge.
+* sortiert die Themendateien nach intendierter Reihenfolge.
 * unterteilt ein Thema gelegentlich in Aspekte und stellt zusätzlich die einzelnen Topic-Dateien bereit. [`tpc-00.xyz` bis `tpc-xy.zyx`]
 * liefert **für jede Unterrichtseinheit** zu einem Thema
   * **eine _[ZEN-Präsentation](https://www.amazon.de/Zen-oder-die-Kunst-Präsentation/dp/3864907594)_**, anhand derer die Lehrerin den Stoff mündlich einbringt (`sbj-nummer.thema-zenprese.pdf`)
