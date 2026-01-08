@@ -47,7 +47,7 @@ Fertige Unterrichtseinheiten in Form von PDF-Dateien, sortiert nach Lernfeld und
 
 ### (3) [Lizenz](https://github.com/pro-tirone-computatri/protico.ltx/blob/main/LICENSING.md) 
 
-Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](./logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/proi-tirone-computatri/) und dessen Repositories visuell zu markieren bzw. anzuteasern.
+Sofern im Einzelfall nicht anders vermerkt, stehen alle Dokumente unter der [CC-BY-4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de). Davon ausgenommen ist das [proTirone-Logo](./logo.png): Es darf nur verwendet werden, um das Projekt [proTirone](https://github.com/proi-tirone-computatri/) und dessen Repositories visuell zu markieren bzw. anzuteasern. Die Erfüllung der CC-BY-4.0-Lizenz ist im Dokument [LICENSING.md](./LICENSING.md) näher geregelt.
 
 ### (4) Struktur
 
@@ -74,13 +74,6 @@ Die intendierte Nutzung der Unterrichtseinheiten ist, dass die Lehrerin
 * am Ende einer Unterrichtseinheit das Tonspurdokument zur Nachbereitung und Wiederauffrischung an die Schülerinnen aushändigt.
 
 Genauer erläutere ich einzelne Unterrichtseinheiten und -aspekte in meinem Blog zum Thema [Berufsschule](https://karsten-reincke.de/tag/berufsschule/) bzw. [Fachinformatik](https://karsten-reincke.de/tag/fachinformatik/)
-
-### (5) Bestand
-
-* LF09:
-  * `sbj-00.curriculum-*`: Stoffherleitung
-* LFCX:
-  * `cx.datafiles-*`: Dateiaustauschformate
 
 Anmerkungen:
 
