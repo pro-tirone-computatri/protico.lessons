@@ -1,0 +1,16 @@
+Aqua
+Black
+Blue
+Fuchsia
+Green
+Ivory
+Lavender
+Magenta
+Olive
+Moccasin
+Pink
+Plum
+Red
+Purple
+Tomato
+Wheat

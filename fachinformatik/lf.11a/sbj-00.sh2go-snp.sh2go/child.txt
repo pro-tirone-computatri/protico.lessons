@@ -1,0 +1,5 @@
+#!/bin/bash
+
+VCHILD="Daughter"
+echo "<${VCHILD}> greets (the externally introduced) <${VFATHER}>."
+
