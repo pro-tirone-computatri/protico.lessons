@@ -16,8 +16,8 @@
 |---|---|---|---|
 |  | Formalia | Vorstellung, Benotung | lf.cx/cx.opening* |
 |  | Curriculum | Herleitung | lf.03/sbj-00.curriculum* |
-|  | Tooling | VSCode \& Markdown | lf.03/sbj-01.tooling* |
-|  | Tooling | Drawio | lf.03/sbj-01.tooling* |
+|  | Tooling | pwsh, linux | lf.03/sbj-01.tooling* |
+|  | Tooling | Drawio, freeplane | lf.03/sbj-01.tooling* |
 |  | UML | Einführung | lf.cx/cx.diagramming* |
 |  | UML | Activitydiagram | lf.cx/cx.diagramming* |
 |  | UML | Sequencediagram | lf.cx/cx.diagramming* |
