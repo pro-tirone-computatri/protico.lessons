@@ -1,4 +1,5 @@
 # (C) 2025 K.Reincke: proTirone snippet [CC-BY-4.0]
+
 '''
 1. Weisen Sie einer Variable my_first_name Ihren Vornamen zu.
 2. Weisen Sie einer Variable my_last_name Ihren Nachnamen zu.
@@ -23,7 +24,8 @@ die Methode 3 anwenden.
 my_firstname="Karsten"
 mec=(f"Ich heiße {my_first_name}")
 
-Dafür können Sie als 2. Variante den Konketantionsoperator '+' verwenden:
+Als Ausgleich können Sie hier können Sie als 2. Variante den 
+Konkatenationsoperator '+' verwenden:
 
 med="Ich heiße " + my_first_name
 
